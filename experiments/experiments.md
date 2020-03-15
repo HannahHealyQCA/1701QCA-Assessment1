@@ -6,7 +6,7 @@
 
 *For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
 
-### Experiment name ###
+### Experiment 8 ###
 
 (Replace this with the experiment name)
 
@@ -18,10 +18,9 @@
 (Insert a caption here)
 
 #### Reflection ####
+When replicating this experiment I learnt the functions of the compass and how to code the compass mechanism of the microbit. I learnt these skills through the creation of a game, consequently I enjoyed discovering the endless opportunities to create new games and testing the facets of the microbit.
 
-In this experiment, something new to me was or something I learned was (insert something here).
-
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as an orienteering or scavenger tool as using the led to detect a specific compass heading could lead someone to a goal location. This mechanism could also function as a finding tool for lost ojects. Similar to 'find y iphone' it coulde be utilised to find a certain object whether in a treasure hunt or just to find an important lost object.
 
 ### Experiment name ###
 
