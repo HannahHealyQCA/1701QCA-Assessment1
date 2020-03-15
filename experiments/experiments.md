@@ -20,7 +20,7 @@
 #### Reflection ####
 When replicating this experiment I learnt the functions of the compass and how to code the compass mechanism of the microbit. I learnt these skills through the creation of a game, consequently I enjoyed discovering the endless opportunities to create new games and testing the facets of the microbit.
 
-This experiment could be the basis of a real world application such as an orienteering or scavenger tool as using the led to detect a specific compass heading could lead someone to a goal location. This mechanism could also function as a finding tool for lost ojects. Similar to 'find y iphone' it coulde be utilised to find a certain object whether in a treasure hunt or just to find an important lost object.
+This experiment could be the basis of a real world application such as an orienteering or scavenger tool as using the led to detect a specific compass heading could lead someone to a goal location. This mechanism could also function as a finding tool for lost objects. Similar to 'find your iphone' it coulde be utilised to find a certain object whether in a treasure hunt or just to find an important lost everyday item.
 
 ### Experiment name ###
 
