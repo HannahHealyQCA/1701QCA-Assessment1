@@ -15,6 +15,9 @@
 
 ![Image](CompassExperiment1.heic)
 
+![Image](CompassExperiment2.heic)
+
+
 (Insert a caption here)
 
 #### Reflection ####
@@ -29,7 +32,10 @@ This experiment could be the basis of a real world application such as an orient
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](WindExperiment1.heic)
+
+![Image](WindExperiment2.heic)
+
 
 (Insert a caption here)
 
