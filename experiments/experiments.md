@@ -76,12 +76,13 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
+
+
 ### Experiment 4- Using Transistor To Drive Motor ###
 
 (Replace this with the experiment name)
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](MotorFan1.png)
 
@@ -93,22 +94,22 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
+
+
 ### Experiment 11- Pedestrian Crossing ###
 
-(Replace this with the experiment name)
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](PedestrianExperiment1.png)
 
-(Above is an image of the pedestrian crossing experiemnt. This experiment works just like a real pedestrian crossing and is equipped with LEDs and a piezo buzzer to truly emmulate the real life experience.)
+(Above is an image of the pedestrian crossing experiemnt. This experiment works just like a real pedestrian crossing and is equipped with LEDs and a piezo buzzer to truly emmulate the real life experience.
 
 #### Reflection ####
 
-WIth in this experiment, I learnt how to make a more complex replication through a multi step experiment that interacts with LEDs, buttons, and the buzzer. 
+WIth in this experiment, I learnt how to make a more complex replication through a multi step experiment that interacts with LEDs, buttons, and the buzzer. Learning how to create a more complex interaction further developed my problem solving skills. This is because whilst replicating this project I noticed that one of the LEDs were not operating. To solve this I first checked the code and found no problems. I then checked the connections on the breadboard and eventually discovered that the LED was not placed with the flat side in the correct direction. Consequently, by venturing out and completing a more complicated experiment I did encounter a obstacle but by overcoming this I developed my problem solving skills.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be used in a real life context through a board game that indicates when it is each players turn. This relates through the timing capabilities and the indicators of the LED and the piezo buzzer. This project could also be manufactured as a miniature pedestrian crossing for toy cars. 
 
 
 
