@@ -15,7 +15,7 @@
 ![Image](CompassExperiment2.png)
 
 
-(Above is an image of Experiment 8- Compass Game which is played by tilting the microbit to find the fastest a random compass heading indicated through the speed of a blinking LED)
+(Above is an image of Experiment 8- Compass Game which is played by tilting the microbit to find a random compass heading indicated through the speed of a blinking LED)
 
 #### Reflection ####
 When replicating this experiment I learnt the functions of the compass and how to code the compass mechanism of the microbit. I learnt these skills through the creation of a game, consequently I enjoyed discovering the endless opportunities to create new games and testing the facets of the microbit.
