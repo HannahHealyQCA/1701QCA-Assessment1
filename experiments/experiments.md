@@ -2,10 +2,6 @@
 
 *Markdown reference: https://guides.github.com/features/mastering-markdown/*
 
-## Instructions ##
-
-*For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
-
 ### Experiment 8- Compass Game ###
 
 #### Photo of completed project ####
@@ -22,12 +18,10 @@ When replicating this experiment I learnt the functions of the compass and how t
 
 This experiment could be the basis of a real world application such as an orienteering or scavenger tool as using the led to detect a specific compass heading could lead someone to a goal location. This mechanism could also function as a finding tool for lost objects. Similar to 'find your iphone' it coulde be utilised to find a certain object whether in a treasure hunt or just to find an important lost everyday item.
 
+
 ### Experiment 7- Wind Power ###
 
-(Replace this with the experiment name)
-
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](WindExperiment1.png)
 
@@ -42,12 +36,11 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
+
+
 ### Experiment 6- Piezo Buzzer ###
 
-(Replace this with the experiment name)
-
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](BuzzerExperiment1.png)
 
@@ -59,12 +52,11 @@ In this experiment, I learnt the mechanisms of creating sound with the mircobit 
 
 This experiment could be used in a real world context through an alarm with a custom sound. 
 
+
+
 ### Experiment 3- Dimming LED with Potentiometer ###
 
-(Replace this with the experiment name)
-
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](DimmingLED1.png)
 
@@ -72,15 +64,13 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was the functions of the potentiometer and how to apply this electric part in a real world context. I also learnt the 'light state' function during the coding process.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as an actual light dimmer. To expand this experiment it could be altered to change the speed of a fan rather than the brightness of an LED.
 
 
 
 ### Experiment 4- Using Transistor To Drive Motor ###
-
-(Replace this with the experiment name)
 
 #### Photo of completed project ####
 
@@ -90,9 +80,9 @@ This experiment could be the basis of a real world application such as (insert s
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, I learnt how to connect and code the speed of a motor. I specifically learnt how to code a loop and how that functions physically.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as a wheel of a homemade robot or car as the motor can be used with many different attachments and thus many diverse functions. Using the fan attachment in this experiment you could obviously make a sall portable electric fan. 
 
 
 
