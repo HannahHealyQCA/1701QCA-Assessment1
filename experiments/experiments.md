@@ -22,7 +22,7 @@ When replicating this experiment I learnt the functions of the compass and how t
 
 This experiment could be the basis of a real world application such as an orienteering or scavenger tool as using the led to detect a specific compass heading could lead someone to a goal location. This mechanism could also function as a finding tool for lost objects. Similar to 'find your iphone' it coulde be utilised to find a certain object whether in a treasure hunt or just to find an important lost everyday item.
 
-### Experiment name ###
+### Experiment 7- Wind Power ###
 
 (Replace this with the experiment name)
 
@@ -34,7 +34,7 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 ![Image](WindExperiment2.png)
 
 
-(Insert a caption here)
+(Above is an image of the wind power experiment. One of the images shows the experiment in action as the fan has been blown on and the microbit reads a value in accordance.)
 
 #### Reflection ####
 
@@ -42,7 +42,7 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
+### Experiment 6- Piezo Buzzer ###
 
 (Replace this with the experiment name)
 
@@ -51,7 +51,7 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 ![Image](BuzzerExperiment1.png)
 
-(Insert a caption here)
+(Above is an image of the mechanisms of the piezo buzzer experiement. However, the true function cannot be capture in an image.)
 
 #### Reflection ####
 
@@ -59,7 +59,7 @@ In this experiment, I learnt the mechanisms of creating sound with the mircobit 
 
 This experiment could be used in a real world context through an alarm with a custom sound. 
 
-### Experiment name ###
+### Experiment 3- Dimming LED with Potentiometer ###
 
 (Replace this with the experiment name)
 
@@ -68,7 +68,7 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 ![Image](DimmingLED1.png)
 
-(Insert a caption here)
+(This is an image of the dimming LED usinng a potentiometer inventors kit experiement. The light level of the red LED can be adjusted using the dimmer.)
 
 #### Reflection ####
 
@@ -76,7 +76,7 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
+### Experiment 4- Using Transistor To Drive Motor ###
 
 (Replace this with the experiment name)
 
@@ -85,7 +85,7 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 ![Image](MotorFan1.png)
 
-(Insert a caption here)
+(This is an image of the motor in action. Within this experiment the fan gradually speeds up to maximum speed and then begins the cycle again.)
 
 #### Reflection ####
 
@@ -93,7 +93,7 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
+### Experiment 11- Pedestrian Crossing ###
 
 (Replace this with the experiment name)
 
@@ -102,7 +102,7 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 ![Image](PedestrianExperiment1.png)
 
-(Insert a caption here)
+(Above is an image of the pedestrian crossing experiemnt. This experiment works just like a real pedestrian crossing and is equipped with LEDs and a piezo buzzer to truly emmulate the real life experience.)
 
 #### Reflection ####
 
