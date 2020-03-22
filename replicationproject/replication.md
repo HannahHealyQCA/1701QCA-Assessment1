@@ -56,12 +56,12 @@ This project is related to mine because (insert reasons here).
 
 This project is related to mine because (insert reasons here).
 
-### Related project 6 ###
+### Related project 6- Word Clock ###
 (Insert name of project)
 
-(Insert URL to project)
+(https://create.arduino.cc/projecthub/mvonsivers/servo-controlled-word-clock-51696b?ref=tag&ref_id=servo&offset=76)
 
-![Image](missingimage.png)
+![Image](wordclock.jpg)
 
 This project is related to mine because (insert reasons here).
 
