@@ -47,12 +47,12 @@ This project is related to mine because (insert reasons here).
 
 This project is related to mine because (insert reasons here).
 
-### Related project 5 ###
+### Related project 5- Automatic Bubble Blower ###
 (Insert name of project)
 
-(Insert URL to project)
+(https://www.instructables.com/id/Bubblesteen-Bubble-Machine/)
 
-![Image](missingimage.png)
+![Image](Bubble.jpg)
 
 This project is related to mine because (insert reasons here).
 
