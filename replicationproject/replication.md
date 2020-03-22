@@ -25,7 +25,7 @@ This project is related to mine because (insert reasons here).
 
 (Insert URL to project)
 
-![Image](the-green-wheel-02.jpeg)
+![Image](the-green-wheel-02.jpg)
 
 This project is related to mine because (insert reasons here).
 
