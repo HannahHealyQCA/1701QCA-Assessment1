@@ -23,7 +23,7 @@ This project is related to mine because (insert reasons here).
 ### Related project 2- The Green Wheel by DesignLibero ###
 (Insert name of project)
 
-(Insert URL to project)
+(https://www.designlibero.com/portfolio/the-green-wheel/)
 
 ![Image](the-green-wheel-02.jpg)
 
@@ -32,16 +32,16 @@ This project is related to mine because (insert reasons here).
 ### Related project 3- The Water Garden by BackToTheRoots ###
 (Insert name of project)
 
-(Insert URL to project)
+(https://backtotheroots.com/products/watergarden)
 
-![Image](missingimage.png)
+![Image](watergarden.jpg)
 
 This project is related to mine because (insert reasons here).
 
-### Related project 4 ###
+### Related project 4- Lua Virtual Pet Plant Pot ###
 (Insert name of project)
 
-(Insert URL to project)
+(https://mu-design.lu/lua#presskit-lua)
 
 ![Image](missingimage.png)
 
