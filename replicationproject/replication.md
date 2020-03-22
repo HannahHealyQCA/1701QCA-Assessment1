@@ -52,7 +52,7 @@ This project is related to mine because (insert reasons here).
 
 (https://www.instructables.com/id/Bubblesteen-Bubble-Machine/)
 
-![Image](Bubble.jpg)
+![Image](bubble.jpg)
 
 This project is related to mine because (insert reasons here).
 
