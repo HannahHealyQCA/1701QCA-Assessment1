@@ -43,7 +43,7 @@ This project is related to mine because (insert reasons here).
 
 (https://mu-design.lu/lua#presskit-lua)
 
-![Image](missingimage.png)
+![Image](Photo-Lua-3.jpg)
 
 This project is related to mine because (insert reasons here).
 
