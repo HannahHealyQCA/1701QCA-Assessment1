@@ -1,7 +1,5 @@
 # Assessment 1: Replication project
 
-*Fill out the following workbook with information relevant to your project.*
-
 *Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
 ## Automatic Plant Waterer ##
@@ -12,13 +10,14 @@ I have chosen to replicate the automatic plant waterer. This is because I enjoye
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1- EcoQube Air ###
-(Insert name of project)
 
-(https://www.kickstarter.com/projects/kevinzl/ecoqube-air-the-coolest-desktop-greenhouse-everref=category_popular&utm_content=bufferd3653&utm_medium=social&utm_source=pinterest.com&utm_campaign=buffer)
+(https://www.kickstarter.com/projects/kevinzl/ecoqube-air-the-coolest-desktop-greenhouse-ever)
 
 ![Image](EcoCube.jpg)
 
-This project is related to mine because (insert reasons here).
+This is a desktop greenhouse aimed to improve air quality and provide smart light therapy. The components of this project include an induction water pump that quietly flows water, air filter that removes harmful air particles and encourages healthy plant growth, dual fans that purify 450 feet of air every hour, customisable LEDs, and a connectable mobile app. Providing the perfect environment environment for plants, this project both helps you to grow plants easier but also improves your own quality of life. 
+
+This project is related to my chosen replication project because it caters to the specific needs of the plant and automatically fufills them. They are also related as they both automatically water plants and help us take care of plants. However, this specific product is marketed to improve our lives by combining an air purifer and desktop plant, rather than just to help us to care for nature.
 
 ### Related project 2- The Green Wheel by DesignLibero ###
 (Insert name of project)
