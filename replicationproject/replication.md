@@ -61,7 +61,7 @@ This project is related to mine because (insert reasons here).
 
 (https://create.arduino.cc/projecthub/mvonsivers/servo-controlled-word-clock-51696b?ref=tag&ref_id=servo&offset=76)
 
-![Image](wordclock.jpg)
+![Image](wordclock.JPG)
 
 This project is related to mine because (insert reasons here).
 
