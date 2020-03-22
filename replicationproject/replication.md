@@ -11,12 +11,12 @@ I have chosen to replicate the automatic plant waterer. This is because I enjoye
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
-### Related project 1- Green Trace by Junjie Zhang ###
+### Related project 1- EcoQube Air ###
 (Insert name of project)
 
-(Insert URL to project)
+(https://www.kickstarter.com/projects/kevinzl/ecoqube-air-the-coolest-desktop-greenhouse-everref=category_popular&utm_content=bufferd3653&utm_medium=social&utm_source=pinterest.com&utm_campaign=buffer)
 
-![Image](missingimage.png)
+![Image](EcoCube.jpg)
 
 This project is related to mine because (insert reasons here).
 
