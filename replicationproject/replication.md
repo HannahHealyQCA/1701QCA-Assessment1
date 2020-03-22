@@ -19,16 +19,8 @@ This is a desktop greenhouse aimed to improve air quality and provide smart ligh
 
 This project is related to my chosen replication project because it caters to the specific needs of the plant and automatically fufills them. They are also related as they both automatically water plants and help us take care of plants. However, this specific product is marketed to improve our lives by combining an air purifer and desktop plant, rather than just to help us to care for nature.
 
-### Related project 2- The Green Wheel by DesignLibero ###
-(Insert name of project)
 
-(https://www.designlibero.com/portfolio/the-green-wheel/)
-
-![Image](the-green-wheel-02.jpg)
-
-This project is related to mine because (insert reasons here).
-
-### Related project 3- The Water Garden by BackToTheRoots ###
+### Related project 2- The Water Garden by BackToTheRoots ###
 (Insert name of project)
 
 (https://backtotheroots.com/products/watergarden)
@@ -37,7 +29,7 @@ This project is related to mine because (insert reasons here).
 
 This project is related to mine because (insert reasons here).
 
-### Related project 4- Lua Virtual Pet Plant Pot ###
+### Related project 3- Lua Virtual Pet Plant Pot ###
 (Insert name of project)
 
 (https://mu-design.lu/lua#presskit-lua)
@@ -46,7 +38,7 @@ This project is related to mine because (insert reasons here).
 
 This project is related to mine because (insert reasons here).
 
-### Related project 5- Automatic Bubble Blower ###
+### Related project 4- Automatic Bubble Blower ###
 (Insert name of project)
 
 (https://www.instructables.com/id/Bubblesteen-Bubble-Machine/)
@@ -55,7 +47,7 @@ This project is related to mine because (insert reasons here).
 
 This project is related to mine because (insert reasons here).
 
-### Related project 6- Word Clock ###
+### Related project 5- Word Clock ###
 (Insert name of project)
 
 (https://create.arduino.cc/projecthub/mvonsivers/servo-controlled-word-clock-51696b?ref=tag&ref_id=servo&offset=76)
@@ -64,6 +56,15 @@ This project is related to mine because (insert reasons here).
 
 This project is related to mine because (insert reasons here).
 
+### Related project 6- The Green Wheel by DesignLibero ###
+
+(https://www.designlibero.com/portfolio/the-green-wheel/)
+
+![Image](the-green-wheel-02.jpg)
+
+Based on NASA's rotary hydroponic garden that provides astronauts with fresh produce whilst in orbit, The Green Wheel creates an optimal enviroment for house plants. Its circular design provides more space for plants and caters to the plant's light needs as it is arranged around a centre light source and the plants rotate around it. A water reservoir and a pump automatically waters the plants when needed. 
+
+This project is similar to my chosen replication project as it also detects and fufills the needs of the plant. This project is much more advanced as it fufills all of the plants needs such as watering and sunlight rather than just watering. 
 
 
 
