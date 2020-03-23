@@ -21,31 +21,34 @@ This project is related to my chosen replication project because it caters to th
 
 
 ### Related project 2- The Water Garden by BackToTheRoots ###
-(Insert name of project)
 
 (https://backtotheroots.com/products/watergarden)
 
 ![Image](watergarden.jpg)
 
-This project is related to mine because (insert reasons here).
+The Water Garden is an aquaponics fish tank that both cleans itself and grows plants. The fish's waste fertilises the plants while the plants purify the water. The water garden is a closed-loop aquaponics system. The water from the fish tank is pumped into the plants, where beneficial bacteria growing on the plant's roots convert the ammonia within the fish waste into nitrates that fertilises the plants and cleans the tank.
+This project has some major similarities to my project as it automatically cares for the plants without human assistance. This project is much more advanced as it automatically cares for both the needs of nature and living species. It also helps us care for plants and makes it so much easier to do so by increasing the work we have to do to keep plants alive and healthy. I found this project very interesting due to the science behind the fertilisation and the purification of the water through different types of bacteria.
 
-### Related project 3- Lua Virtual Pet Plant Pot ###
+### Related project 3- Automatic Bubble Blower ###
 (Insert name of project)
+
+(https://www.instructables.com/id/Bubblesteen-Bubble-Machine/)
+(https://www.superhouse.tv/diy-bubble-machine/)
+
+![Image](bubble.jpg)
+
+This project is an automatic bubble blower which is built with micro servos and other various materials. It is comprised of a micro-controller platform, an arm that holds the bubble wand, a vessel forr the bubble liquid and a fan the blows the bubble. The servo gives the bubble wand both tilting and paning capabilities so the angle of the bubble wand can be adjusted to collect bubble liquid and mve in front of the fan. 
+
+This project is related to mine because it uses the same technological mechanical equipment of a micro servo. The tutorial of this project has expanded my knowledge of micro servos and different ways I can utilise them in interactive projects. I was interested in this project as it combines the use of a motorised pan and a micro servo.
+
+### Related project 4- Lua Virtual Pet Plant Pot ###
 
 (https://mu-design.lu/lua#presskit-lua)
 
 ![Image](Photo-Lua-3.jpg)
 
-This project is related to mine because (insert reasons here).
-
-### Related project 4- Automatic Bubble Blower ###
-(Insert name of project)
-
-(https://www.instructables.com/id/Bubblesteen-Bubble-Machine/)
-
-![Image](bubble.jpg)
-
-This project is related to mine because (insert reasons here).
+The Lua Virtual Pet Plant Pot is pant pot that turns any plant into a virtual pet that visually indicates it's needs. WHen connected to an app, the Lua has six essential animations; thirsty: when the plant is dehydrated, sick: when the plant is over-hydrated, vampire: if the plant is not exposed to sufficient light for a certain amount of time, squint: the plant has been exposed to too much sunlight, cold: when the temperature drops and hot: when the temperature is too high. It also has random animations and 'happy' animations to indicate that it is healthy. This virtual pet also has motion tracking and will follow moving objects with it's eyes. Installed with a sub-irrigation water reservoir and foursensors; moisture sensor, light level sensor, motion sensor and temperature sensor, this pot detects and fufills all of the plant's needs automatically. 
+This project is related to my self watering plant waterer because it also waters plants and detects the needs of plants. This pot also is centered around making it easier for us to care for plants. But this expands on my basic idea by catering to all of the plant's needs, adding fun animations, and developing the plant as it's own living entity by detecting and communicating it's own specific needs, thus making it both easier but more fun to look after plants.
 
 ### Related project 5- Word Clock ###
 (Insert name of project)
@@ -54,7 +57,9 @@ This project is related to mine because (insert reasons here).
 
 ![Image](wordclock.JPG)
 
-This project is related to mine because (insert reasons here).
+The word clock is a large visual clock that represents the time visually through words. This display clock is constructed of 114 servo motors, 300 LEDs, some custom 3D printed or laser cut parts, linear actuators and various other materials. The 114 letters are made from a 3D printed box with installed LEDs and the servo motors raise or push foward the appropriate letters which correlate with the according LEDs. It is also covered with semi-transparent foil that hides all of the components but still allows the letters to be seen through the LEDS but also not be seen when the servo motors compress the letters to the frame, thus creating the appearing effect to the letters. I was interested in this project as it uses servo motors in a large scale display thus expanding my knowledge of how servo motors can be used in much more complex projects.
+The word clock is similar to my chosen replication project as it uses many servos motors and thus utilises the same technology and foundation mechanical equipment. However, this project has a completely different function, construction and purpose. These projects are also connected as they both aim to make our lives easier. 
+
 
 ### Related project 6- The Green Wheel by DesignLibero ###
 
@@ -64,7 +69,7 @@ This project is related to mine because (insert reasons here).
 
 Based on NASA's rotary hydroponic garden that provides astronauts with fresh produce whilst in orbit, The Green Wheel creates an optimal enviroment for house plants. Its circular design provides more space for plants and caters to the plant's light needs as it is arranged around a centre light source and the plants rotate around it. A water reservoir and a pump automatically waters the plants when needed. 
 
-This project is similar to my chosen replication project as it also detects and fufills the needs of the plant. This project is much more advanced as it fufills all of the plants needs such as watering and sunlight rather than just watering. 
+This project is similar to my chosen replication project as it also detects and fufills the needs of the plant. This project is much more advanced as it fufills all of the plants needs such as watering and sunlight rather than just watering. I was interested in this specific product as I enjoyed the rotating mechanisma nd the purpose of this.
 
 
 
