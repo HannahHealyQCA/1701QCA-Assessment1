@@ -165,9 +165,16 @@ These are the materials I actually used when creating my project. I used a varie
 ### Code ###
 (https://makecode.microbit.org/_A8m46CdK1Vpu)
 
-### Construction ###
+#### Block Code ####
+![Image](Code1.png)
+
+### Java Script Code ####
+![Image](Code2.png)
+![Image](Code3.png)
+
+# Construction #
 ## Basic Construction ##
-# Prototype Function Test #
+## Prototype Function Test ##
 ## Final Fabrication ##
 *In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
 
