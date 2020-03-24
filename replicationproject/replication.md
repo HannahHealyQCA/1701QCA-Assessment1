@@ -158,19 +158,24 @@ I created this material list based on the materials listed in the tutorial. Howe
 ### Materials ###
 
 ![Image](materials.JPG)
+
 (Above is a labelled diagram of the materials I actually used in creating the basic wiring and construction of the project.)
 
-These are the materials I actually used when creating my project. I used a variety of both household materials and electrical parts to create my project. I chose these specific materials as they were easily accessible and cheap. I adapted the material list from the tutorial to fit my circumstances such as access to materials and tools, and convenience in coding and constructing my project. I also chose not to solder the connections as this is just a prototype replication not a final product. 
+These are the materials I actually used when creating my project. I used a variety of both household materials and electrical parts to create my project. I chose these specific materials as they were easily accessible and cheap. I adapted the material list from the tutorial to fit my circumstances such as access to materials and tools, and convenience in coding and constructing my project. the alligator clips were attempted to be used but the connections were not strong enough so I substituted them for the extra wire and wrapped the wire around created loops connected to nuts and bolts. I also chose not to solder the connections as this is just a prototype replication not a final product. 
 
 ### Code ###
 (https://makecode.microbit.org/_A8m46CdK1Vpu)
 
+After planning my project on paper, the first step I took in actually creating my project was the coding process. I wanted to start the coding process first so I could understand the base functions of my project before actually constructing it. My code pretty much remained the same throughout the construction of my project. I did alter some of the servo pin inputs when the servo was not working but then I realised a wire was on the incorrect pin, and the code was correct. Consequently, I had to go back and change the code to the original iteration. Other than that, the code operated correctly and performed all of the required functions such as adjusting the sero motor when the reading is less than 500, reading the electrical resistance, showing a bar graph of this reading, providing this reading on screen when button A is pressed, and showing an umbrella icon when the reading is less than 500.
+
 #### Block Code ####
 ![Image](Code1.JPG)
+(This is a screenshot of the microbit make code block code for this project.)
 
 #### Java Script Code ####
 ![Image](Code2.JPG)
 ![Image](Code3.JPG)
+(This is a screenshot of the java script code for this project.)
 
 # Construction #
 ## Basic Construction ##
