@@ -121,10 +121,10 @@ This project is similar to my chosen replication project as it also detects and 
 ![Image](Diagram1.png)
 
 ### Final Fabrication Diagram ###
-![Image](Diagram2.png)
+![Image](Diagram3.png)
 
 ### Material List ###
-![Image](Diagram3.png)
+![Image](Diagram2.png)
 
 
 ### Materials ###
