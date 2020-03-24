@@ -189,6 +189,11 @@ To begin the construction process I first cut my straw to size. I measured again
 ![Image](C1.png)
 (This is an image of the altered straw that will be used to funnel the water from the water cup to the plant.)
 
+Next I began constructing the water cup component. Instead of using rubberbands to hold the wooden stick to the cup, I veered from the tutorial and used hot glue to adhere the wooden stick to a disposable plastic cup. This made the structural intergraty much better and more durable. Rather than tape, I also used a small amount of hot glue to adhere the straw attachment because I did not think that tape would hold it sufficiently especially with the movement and water involved. On the contrary, I used a rubberband to hold the micro servo motor in place. This is because I needed to keep this borrowed part easily removeable.
+
+![Image](C2.png)
+(Above is an image of the water cup component including the micro servo with the straw trough attachment.)
+
 ## Prototype Function Test ##
 ## Final Fabrication ##
 *In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
