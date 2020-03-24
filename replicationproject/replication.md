@@ -149,6 +149,7 @@ I created this material list based on the materials listed in the tutorial. Howe
 ### Materials ###
 
 ![Image](materials.JPG)
+
 (Above is a labelled diagram of the materials I actually used in creating the basic wiring and construction of the project.)
 
 
