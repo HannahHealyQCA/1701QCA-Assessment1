@@ -106,17 +106,14 @@ The content of this reading relates to my personal replication project as if the
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-Before engaging with this text, I believed that 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+Before engaging with this text, I believed that the design process was moderately important and creating prototypes is useful. However, this reading challenged my belief by teaching me the immense importance of the design process and the creation of multiple prototypes in order to reach the best possible iteration. Although frustrating, setbacks are important to develop problem solving skills and make the best possible final product. It also taught me the importance of flexibility in the design process.
 
-By reading this text I learnt 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+By reading this text I learnt real life examples that utilise interactive technology. It also expanded my knowledge of the language surrounding interactive projects and this industry. I now know that a designer makes nontechnical decisions surrounding the functionality and structure. However, a developed implements these decisions to create the product. This relationship is changed due to emerging technology, thus making designers more adaptive and learning to code more important than ever in this competitive market. I also learnt of the transformative nature that designers have to develop, as they now have to "be able to create prototypes and interpret the data that our prototypes produce"(p. 227). Through the real life case studies, I also learnt about the design process and the adaptations that have to be made due to problem solving and how to tackle these hurdles during this process. I had some knowledge of the importance of problem solving during the design process, but this text opened my eyes to the immense flexibilty designers have to develop when encountering setbacks.
 
-ALthough this text did provide ample information and greatly expanded my knowledge of I would like to know more about
+ALthough this text did provide ample information and many real life examples that greatly expanded my knowledge of prototyping and the design process I would like to know more about
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
-The concept of that is reflected in this text relates to my chosen replication project through
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+The concept of prototyping and the designer's role relates to my chosen replication project as I had to be both the designer and developer. I took on all roles, I designed, developed, coded, constructed and showcased my project. I had to take on the ideologies of the adaptive role of the designer from this text when completing my own project as I needed to think through many differnet perspectives and learn many new skills. During the construction of my process I also had to create a few different prototypes seen through both my diagram iterations, material list changes, and the problem solving I had to do when doing the basic wiring. The ideas represented in this reading allowed me to improve my project by easily overcoming the problems I encountered as I understood my adaptive role and the importance of planning and prototyping.
 
 
 ## Interaction flowchart ##
