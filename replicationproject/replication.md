@@ -114,12 +114,17 @@ This project is similar to my chosen replication project as it also detects and 
 
 ![Image](IFD.png)
 
-## Process documentation
+# Process documentation
 
-# Initial Planning #
+## Initial Planning ##
+### 
+![Image](Diagram1.png)
 
-![Image](missingimage.png)
+### Final Fabrication Diagram ###
+![Image](Diagram2.png)
 
+### Material List ###
+![Image](Diagram3.png)
 
 
 ### Materials ###
