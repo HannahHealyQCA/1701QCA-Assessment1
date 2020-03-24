@@ -117,8 +117,9 @@ This project is similar to my chosen replication project as it also detects and 
 # Process documentation
 
 ## Initial Planning ##
-### 
+### Diagram of Basic Wiring and Construction ###
 ![Image](Diagram1.png)
+
 
 ### Final Fabrication Diagram ###
 ![Image](Diagram3.png)
