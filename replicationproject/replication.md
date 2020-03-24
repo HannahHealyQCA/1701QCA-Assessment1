@@ -187,3 +187,7 @@ This diagram was the first step in planning my replication project. Based on the
 
 
 *What might be an interesting extension of this project? In what other contexts might this project be used?*
+
+### Limitations ###
+
+### Strengths ###
