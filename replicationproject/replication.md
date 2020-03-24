@@ -125,7 +125,7 @@ This project is similar to my chosen replication project as it also detects and 
 ![Image](IFD2.png)
 (This is an image of a more complicated final interaction flowchart.)
 
-
+The first interaction flowchart is a basic version that depicts the basic functions of my project. However, the second final interaction flowchart shows all of the capabilities of my project, thus showing a more detailed illustration of the full interactions. 
 
 # Process documentation
 
@@ -140,7 +140,7 @@ This diagram was the first step in planning my replication project. Based on the
 ![Image](Diagram4.png)
 (Above is an image of a hand-drawn diagram of the final wiring and basic construction I used in my final project that was subject to minor alterations due to problem solving during construction.)
 
-This is the final wiring and construction of the project. During the construction process, I encountered a few obstacles where I had to adapt the wiring. 
+This is the final wiring and construction of the project. During the construction process, I encountered a few obstacles where I had to adapt the wiring, thus explaining the different diagram iterations. 
 
 ### Final Fabrication Diagram ###
 ![Image](Diagram3.png)
@@ -158,11 +158,16 @@ I created this material list based on the materials listed in the tutorial. Howe
 ### Materials ###
 
 ![Image](materials.JPG)
-
 (Above is a labelled diagram of the materials I actually used in creating the basic wiring and construction of the project.)
 
+These are the materials I actually used when creating my project. I used a variety of both household materials and electrical parts to create my project. I chose these specific materials as they were easily accessible and cheap. I adapted the material list from the tutorial to fit my circumstances such as access to materials and tools, and convenience in coding and constructing my project. I also chose not to solder the connections as this is just a prototype replication not a final product. 
 
+### Code ###
 
+### Construction ###
+## Basic Construction ##
+# Prototype Function Test #
+## Final Fabrication ##
 *In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
 
 *This should have quite a lot of information!*
