@@ -166,11 +166,11 @@ These are the materials I actually used when creating my project. I used a varie
 (https://makecode.microbit.org/_A8m46CdK1Vpu)
 
 #### Block Code ####
-![Image](Code1.png)
+![Image](Code1.JPG)
 
 #### Java Script Code ####
-![Image](Code2.png)
-![Image](Code3.png)
+![Image](Code2.JPG)
+![Image](Code3.JPG)
 
 # Construction #
 ## Basic Construction ##
