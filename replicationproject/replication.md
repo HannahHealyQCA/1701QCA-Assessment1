@@ -163,6 +163,7 @@ I created this material list based on the materials listed in the tutorial. Howe
 These are the materials I actually used when creating my project. I used a variety of both household materials and electrical parts to create my project. I chose these specific materials as they were easily accessible and cheap. I adapted the material list from the tutorial to fit my circumstances such as access to materials and tools, and convenience in coding and constructing my project. I also chose not to solder the connections as this is just a prototype replication not a final product. 
 
 ### Code ###
+(https://makecode.microbit.org/_A8m46CdK1Vpu)
 
 ### Construction ###
 ## Basic Construction ##
