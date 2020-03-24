@@ -168,7 +168,7 @@ These are the materials I actually used when creating my project. I used a varie
 #### Block Code ####
 ![Image](Code1.png)
 
-### Java Script Code ####
+#### Java Script Code ####
 ![Image](Code2.png)
 ![Image](Code3.png)
 
