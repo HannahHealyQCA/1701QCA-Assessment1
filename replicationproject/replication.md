@@ -14,6 +14,7 @@ I have chosen to replicate the automatic plant waterer. This is because I enjoye
 (https://www.kickstarter.com/projects/kevinzl/ecoqube-air-the-coolest-desktop-greenhouse-ever)
 
 ![Image](EcoCube.jpg)
+(This is an image of the EcoQube Air, a desktop greenhouse.)
 
 This is a desktop greenhouse aimed to improve air quality and provide smart light therapy. The components of this project include an induction water pump that quietly flows water, air filter that removes harmful air particles and encourages healthy plant growth, dual fans that purify 450 feet of air every hour, customisable LEDs, and a connectable mobile app. Providing the perfect environment environment for plants, this project both helps you to grow plants easier but also improves your own quality of life. 
 
@@ -25,17 +26,18 @@ This project is related to my chosen replication project because it caters to th
 (https://backtotheroots.com/products/watergarden)
 
 ![Image](watergarden.jpg)
+(The Water Garden automatically cares for both plants but also fish.)
 
 The Water Garden is an aquaponics fish tank that both cleans itself and grows plants. The fish's waste fertilises the plants while the plants purify the water. The water garden is a closed-loop aquaponics system. The water from the fish tank is pumped into the plants, where beneficial bacteria growing on the plant's roots convert the ammonia within the fish waste into nitrates that fertilises the plants and cleans the tank.
 This project has some major similarities to my project as it automatically cares for the plants without human assistance. This project is much more advanced as it automatically cares for both the needs of nature and living species. It also helps us care for plants and makes it so much easier to do so by increasing the work we have to do to keep plants alive and healthy. I found this project very interesting due to the science behind the fertilisation and the purification of the water through different types of bacteria.
 
 ### Related project 3- Automatic Bubble Blower ###
-(Insert name of project)
 
 (https://www.instructables.com/id/Bubblesteen-Bubble-Machine/)
 (https://www.superhouse.tv/diy-bubble-machine/)
 
 ![Image](bubble.jpg)
+(Above is an image of an automatic bubble blower, that takes the work out of blowing bubbles.)
 
 This project is an automatic bubble blower which is built with micro servos and other various materials. It is comprised of a micro-controller platform, an arm that holds the bubble wand, a vessel forr the bubble liquid and a fan the blows the bubble. The servo gives the bubble wand both tilting and paning capabilities so the angle of the bubble wand can be adjusted to collect bubble liquid and mve in front of the fan. 
 
@@ -46,16 +48,17 @@ This project is related to mine because it uses the same technological mechanica
 (https://mu-design.lu/lua#presskit-lua)
 
 ![Image](Photo-Lua-3.jpg)
+(The Lua visually indicates the plant's needs, thus taking the guess work out of caring for plants and making it much easier.)
 
 The Lua Virtual Pet Plant Pot is pant pot that turns any plant into a virtual pet that visually indicates it's needs. WHen connected to an app, the Lua has six essential animations; thirsty: when the plant is dehydrated, sick: when the plant is over-hydrated, vampire: if the plant is not exposed to sufficient light for a certain amount of time, squint: the plant has been exposed to too much sunlight, cold: when the temperature drops and hot: when the temperature is too high. It also has random animations and 'happy' animations to indicate that it is healthy. This virtual pet also has motion tracking and will follow moving objects with it's eyes. Installed with a sub-irrigation water reservoir and foursensors; moisture sensor, light level sensor, motion sensor and temperature sensor, this pot detects and fufills all of the plant's needs automatically. 
 This project is related to my self watering plant waterer because it also waters plants and detects the needs of plants. This pot also is centered around making it easier for us to care for plants. But this expands on my basic idea by catering to all of the plant's needs, adding fun animations, and developing the plant as it's own living entity by detecting and communicating it's own specific needs, thus making it both easier but more fun to look after plants.
 
 ### Related project 5- Word Clock ###
-(Insert name of project)
 
 (https://create.arduino.cc/projecthub/mvonsivers/servo-controlled-word-clock-51696b?ref=tag&ref_id=servo&offset=76)
 
 ![Image](wordclock.JPG)
+(This is an image of the word clock that uses servo motors to visually indicate the time.)
 
 The word clock is a large visual clock that represents the time visually through words. This display clock is constructed of 114 servo motors, 300 LEDs, some custom 3D printed or laser cut parts, linear actuators and various other materials. The 114 letters are made from a 3D printed box with installed LEDs and the servo motors raise or push foward the appropriate letters which correlate with the according LEDs. It is also covered with semi-transparent foil that hides all of the components but still allows the letters to be seen through the LEDS but also not be seen when the servo motors compress the letters to the frame, thus creating the appearing effect to the letters. I was interested in this project as it uses servo motors in a large scale display thus expanding my knowledge of how servo motors can be used in much more complex projects.
 The word clock is similar to my chosen replication project as it uses many servos motors and thus utilises the same technology and foundation mechanical equipment. However, this project has a completely different function, construction and purpose. These projects are also connected as they both aim to make our lives easier. 
@@ -66,6 +69,7 @@ The word clock is similar to my chosen replication project as it uses many servo
 (https://www.designlibero.com/portfolio/the-green-wheel/)
 
 ![Image](the-green-wheel-02.jpg)
+(The Green Wheel is a circular automatic garden that rotates around a focal light source.)
 
 Based on NASA's rotary hydroponic garden that provides astronauts with fresh produce whilst in orbit, The Green Wheel creates an optimal enviroment for house plants. Its circular design provides more space for plants and caters to the plant's light needs as it is arranged around a centre light source and the plants rotate around it. A water reservoir and a pump automatically waters the plants when needed. 
 
@@ -118,11 +122,18 @@ This project is similar to my chosen replication project as it also detects and 
 
 ## Initial Planning ##
 ### Diagram of Basic Wiring and Construction ###
-![Image](Diagram1.png)
 
+![Image](Diagram1.png)
+(This is a hand-drawn diagram that visually depicts the wiring and construction of the basic replication project.)
+
+This diagram was the first step in planning my replication project. Based on the wiring from the tutorial, this is not the final construction I used in my project. Whilst actually building the project I had to problem solve and make some slight adaptions. Instead of using double-sided alligator clips and male pin to alligator clips, I used stripped wires wrapped around nuts and bolts conected to the microbit. This is because the alligator clips did not create a strong enough connection and this connection were too precarious, thus decreasing the reliability of the connections and the project as a whole. Below is the final diagram for the basic wiring and intial construction.
+
+![Image](Diagram4.png)
+(Above is an image of a hand-drawn diagram of the final wiring and basic construction I used in my final project that was subject to minor alterations due to problem solving during construction.)
 
 ### Final Fabrication Diagram ###
 ![Image](Diagram3.png)
+(This is an image of a hand-drawn diagram of the way in which I planned to fabricate this project.)
 
 ### Material List ###
 ![Image](Diagram2.png)
