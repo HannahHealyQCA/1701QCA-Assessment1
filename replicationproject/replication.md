@@ -131,17 +131,27 @@ This diagram was the first step in planning my replication project. Based on the
 ![Image](Diagram4.png)
 (Above is an image of a hand-drawn diagram of the final wiring and basic construction I used in my final project that was subject to minor alterations due to problem solving during construction.)
 
+This is the final wiring and construction of the project. During the construction process, I encountered a few obstacles where I had to adapt the wiring. 
+
 ### Final Fabrication Diagram ###
 ![Image](Diagram3.png)
 (This is an image of a hand-drawn diagram of the way in which I planned to fabricate this project.)
 
+I have chosen to fabricate my project inside a cardboard box. Two holes are cut in the lid for the cups to sit in. Inside the box, the cups are secured in a cardboard cup holder. I also created a window so that the battery packs can be accessed without opening the whole box. I cut a window for the microbit to be inserted into so that the buttons and screen can be seen from the outside. The purpose of this final fabrication was to streamline my project and neatly hide the messy wires and battery packs. 
+
 ### Material List ###
 ![Image](Diagram2.png)
+(This is my initial list of materials.)
+
+I created this material list based on the materials listed in the tutorial. However, I slightly altered some materials when actually constructing my project. Below is an image of the materials I actually used in constructing the basic wiring and construction.
 
 
 ### Materials ###
 
 ![Image](materials.JPG)
+(Above is a labelled diagram of the materials I actually used in creating the basic wiring and construction of the project.)
+
+
 
 *In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
 
