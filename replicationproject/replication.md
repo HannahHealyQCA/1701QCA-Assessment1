@@ -96,25 +96,26 @@ This project is similar to my chosen replication project as it also detects and 
 
 Before reading this text, I believed that the small aspects were not as important as the larger picture. I often overlooked and did not pay equal attention to the small functionality components and mainly focused on the project as whole.  This reading challenged this view as it explained how clumbsy and frustrating microinteractions can compromise a whole project no matter how good the concept or design may be. After reading this text my knowledge of electrical interaction language and microinteractions was expanded and my previous view was challenged thus changing my perspective as a designer. I now believe that all parts of functionality, no matter how small, should be treated equally and all function to the highest standard.
 
-When reading this chapter I learned what a microinteraction is and the functions and importance of them. A microinteraction is a functional detail of a product that is one piece of functionality and only completes one thing. Building onto this idea, I learnt the importance of these overlooked elements as these small functions can ruin the whole project. Even if the main features are created beautifully, the microinteractions need to also be executed in the same manner in order to avoid mass amounts of frustration. I really enjoyed the following quote as it simplifies this concept and truly elucidates the importance of microinteractions: "The design of your product is only as good as its smallest part"(p. 6). I also learnt the importance of microinteractions in the design industry as they have to change their mindset to create a well-rounded functional product. This is because microinteractions force designers to focus on the details rather than the larger picture and work in simple terms. Microinteractions encourage designers to simplify their design and streamline complex features. I also enjoyed learning about the history of microinteractions and how electricity advanced microinteractions so much so that "action became abstracted"(p. 12) as we do not even have to be in the same room to trigger a microinteraction. Overall, I learnt alot and enjoyed engaging with this text. 
+When reading this chapter I learned what a microinteraction is and the functions and importance of them. A microinteraction is a functional detail of a product that is one piece of functionality and only completes one thing. Building onto this idea, I learnt the importance of these overlooked elements as these small functions can ruin the whole project. Even if the main features are created beautifully, the microinteractions need to also be executed in the same manner in order to avoid mass amounts of frustration. I really enjoyed the following quote as it simplifies this concept and truly elucidates the importance of microinteractions: "The design of your product is only as good as its smallest part"(p. 6). I also learnt the importance of microinteractions in the design industry as they have to change their mindset to create a well-rounded functional product. This is because microinteractions force designers to focus on the details rather than the larger picture and work in simple terms. Microinteractions encourage designers to simplify their design and streamline complex features. I also enjoyed learning about the history of microinteractions and how electricity advanced microinteractions so much so that "action became abstracted"(p. 12) as we do not even have to be in the same room to trigger a microinteraction. I also learnt the language related to microinteractions; trigger, rules, feedback and loops or modes. Overall, I learnt alot and enjoyed engaging with this text. 
 
-I would like to learn more about
+I would like to learn more about microinteractions as a philosphy and the methods of approaching microinteractions. What is the most possible method when dealing with microinteractions? Are these methode widely known within the designer community? Are there other less common methods to approach microinteractions? If "in competitive markets microinteractions are even more important"(p. 7) and "microinteractions are the glue that can tie together features"(p.7), do large companies really spend as much time on these tiny pieces of functionality as this text encourages? 
+
+The content of this reading relates to my personal replication project as if the small functions such as the bar graph and display of the reading did not function correctly, the whole project would be compromised. It is not just about the main purpose of watering the plant, all of the features should work and have equal attention paid to them in order to create a well-rounded project. Consequently, when constucting and coding my project I paid great attention to the small details and the larger picture, to make sure all pieces of functionality were all working and I was not just focusing on the main components. Thus, this reading helped me in the design process to improve the small functionality of the minor details. This is evident as I added a small window to access the battery pack and the microbit screen which increases convenience and makes sure all components, even the minute ones, are accessible and working as intended.
 
 
-The content of this reading relates to my personal replication project as 
-
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
-
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
+Before engaging with this text, I believed that 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
 
+By reading this text I learnt 
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
 
+ALthough this text did provide ample information and greatly expanded my knowledge of I would like to know more about
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
+The concept of that is reflected in this text relates to my chosen replication project through
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
 
 
