@@ -183,6 +183,12 @@ After planning my project on paper, the first step I took in actually creating m
 
 # Construction #
 ## Basic Construction ##
+
+To begin the construction process I first cut my straw to size. I measured against the cup to see how what the water level would need to be to collect a sufficient amount of water. I also cut a trough like slit so that it could collect water sufficiently. Later in the construction process and after testing it with the water whilst installed onto the micro servo motor, I had to adjust the angle cut into the straw as the water would splash alot when the straw collected the water. This was dangerous with electrical equipment around, so I had to quickly resolve this problem.
+
+![Image](C1.png)
+(This is an image of the altered straw that will be used to funnel the water from the water cup to the plant.)
+
 ## Prototype Function Test ##
 ## Final Fabrication ##
 *In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
