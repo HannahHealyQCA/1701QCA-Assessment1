@@ -3,11 +3,10 @@
 *Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
 ## Automatic Plant Waterer ##
-(Insert the name of the project you chose to replicate.)
+
 I have chosen to replicate the automatic plant waterer. This is because I enjoyed the previous work example of the plant waterer and wanted to learn the mechanisms of this project but I knew I would not pursue something similar in my final project.
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1- EcoQube Air ###
 
@@ -206,10 +205,15 @@ However, I did not check the code to make sure that still matched up. After this
 
 Documents I used to assist me during this step:
 (https://support.microbit.org/support/solutions/articles/19000101864-using-a-servo-with-the-micro-bit)
+
 I used this website to help wire the servo motor with the added extra battery pack.
+
 (https://makecode.microbit.org/projects/plant-watering/make)
+
 I used this tutorial as overarching instructions to complete this whole project.
+
 (https://lorrainbow.wordpress.com/2017/11/11/how-to-connect-wires-to-the-microbit/)
+
 By utilising this article I was able to discover more about alligator clip alternatives and thus make an educated decision to use nuts and bolts to connect the wires to the microbit.
 
 ![Image](C5.png)
