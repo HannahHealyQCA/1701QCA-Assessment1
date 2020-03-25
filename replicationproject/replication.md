@@ -82,12 +82,13 @@ This project is similar to my chosen replication project as it also detects and 
 *For each of the assigned readings, answer the questions below.*
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
-
+Before reading this text I did not understand the extent or complexity of design. I now know the of the well thought out process that designers go through to achieve a successful product.
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
 
 Through engaging with this text I learnt the fundamental principles of interaction: affordances, signifiers, constraints, mappings, feedback and the conceptual model. I also learnt that the experience created by the product is the most important aspect as it is the most memorable facet, both in negative and positive ways. I was also introduced to the true science of good design; as "people need some way of understanding the product or service they wish to use"(p.2) and "for designers [affordance's] visibilty is critical: visible affordances provide strong clues to the operations of things"(p.2).
 *What I learned: Describe what you now know or bthey wish to elieve as a rult of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
 
+I would like t
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
@@ -230,7 +231,7 @@ The materials I used in the fabrication process include a cardboard box, hot glu
 (This is an image of the cups installed into the appropriate holes.)
 
 
-I also used electrical tap to secure connections and to hold the battery packs in place, thus increasing the structural intergrety of my project.
+I also used electrical tape to secure connections and to hold the battery packs in place, thus increasing the structural intergrety of my project.
 ![Image](C15.png)
 (Above is an insightful image that shows the wiring and use of electrical tape.)
 
@@ -258,6 +259,7 @@ I do wish that I had used a smaller box as it is quite large and clunky. I was u
 ### Project title ###
 
 ### Project description ###
+Sick of countless dried dead plants? Want to  take the work out of owning house plants? The does it all for you!The caters to your plant's specific needs. It detects the moisture level of your plant and waters it if it is dehyrated. Perfect for anyone who struggles to keep plants alive, the makes your life so much easier.
 
 *In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
 
@@ -275,17 +277,22 @@ I do wish that I had used a smaller box as it is quite large and clunky. I was u
 
 ### Reflection ###
 
+### Limitations ###
+There are few limitations both encountered whilst completing this project and in the final product. Although I am happy with the final look of the product, I do wish it was slightly more streamline and smaller. I could have done this with a smaller box but I unfortunately did not have access to this material. Even though the simplistic concept behind this product makes it purposeful and not confusing, I wish that I could have expanded the concept more. During the construction process, I struggled making the connections secure and strong. To ensure the connections remain sturdy and do not break, I could have soldered the wire. However, I did not have access to these tools and as this project is just a prototype I did not feel that it needed such advancement. The connections that I did create are moderately durable and appropriate for a basic prototype so although I could have improved this apsect and reduced alot of frustration, I am pleased with the structural integrity of the wiring.
+### Strengths ###
+I feel that the most successful elements of my project is the functionality, design process and final outcome. Although I did encounter a few hurdles, I achieved the desired functionality. My project performs the task I wanted to fufill thus completing its purpose. I also think that the design process was considerably success as it allowed me to expand my knowledge of design related concepts and developed my problem solving skills. Through adaptive nature I had to develop during this process I have changed my mindset when approaching projects. I also really enjoyed the planning and design process and even when i did have to adapt my plan to fit an unexpected changes. Overall, I am happy with the final outcome of my project. I think the streamline design, the need for this product in our busy lives, the unimpeded functionality and the simple nature of this project has contributed to the overarching success of my project. 
+
 *Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
 
 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
-
+From the related projects I was isnpired through their use of design and the way they marketed their products. This helped me in my final showcase. It helped me come up with a witty name and an entertaining engaging description.
 
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
-
+The concepts expressed in the provided readings have informed by decisions in both the design and construction process. 
 
 *What might be an interesting extension of this project? In what other contexts might this project be used?*
+As this project just detects the soil moisture and does not cater to specific plant's moisture needs, a way to expand it would be to have customisable moisture settings for each plant. For example, succulents commonly need less water so the moisture threshold would be lower. 
+If I were to advance the design I would put a cover over the water cup as I feel uncomfortable with an uncovered large cup of water near electrical components. To make increase convenience by letting you put this product anywhere in your house and by reducing the risk of spills, a lid to the water cup would greatly benefit this project if it were to be distributed to the public.
 
-### Limitations ###
 
-### Strengths ###
