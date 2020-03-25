@@ -225,7 +225,7 @@ By utilising this article I was able to discover more about alligator clip alter
 
 ## Prototype Function Test ##
 
-<video src="20200322_054552000_iOS.MOV" width="320" height="200" controls preload></video>
+<video src="video.mp4" width="320" height="200" controls preload></video>
 
 ## Final Fabrication ##
 *In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
