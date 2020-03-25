@@ -220,17 +220,15 @@ By utilising this article I was able to discover more about alligator clip alter
 ![Image](C5.png)
 (Above is an image of the basic construction and wiring, and the project in action.)
 
-![Image](C7.png)
-(This is an image of the project after the first functional prototype test.)
-
 ## Final Fabrication ##
-I chose to fabicate my project in a cardboard box. I decided to paint it white to streamline the look of my project. I first glued in the cup holder to secure the cups inside the box. Measuring against the cups, I then cut two holes in the lid for the cups.
+The materials I used in the fabrication process include a cardboard box, hot glue, ductape, electrical tape, cup holder, white paint, and ribbon. I chose to fabicate my project in a cardboard box as it was the most abundant material I had access to. I also decided to paint it white to streamline the look of my project. After painting the outside, I glued in the cup holder to secure the cups inside the box. Measuring against the cups, I then cut two holes in the lid for the cups.
+![Image](C14.png)
+(Above is an image of the installed cup holder.)
 ![Image](C9.png)
 (This is an image of the two holes for each of the cups.)
 ![Image](C13.png) 
 (This is an image of the cups installed into the appropriate holes.)
-![Image](C14.png)
-(Above is an image of the installed cup holder.)
+
 
 I also used electrical tap to secure connections and to hold the battery packs in place, thus increasing the structural intergrety of my project.
 ![Image](C15.png)
@@ -244,8 +242,6 @@ I also cut an openable window to access the battery packs. I also attached a han
 
 I do wish that I had used a smaller box as it is quite large and clunky. I was unable to do this because this is the smallest box I had accessible to me. I also wish that I had cut the two holes for the cus straight rather than on a diagonal because this made it difficult to arrange the cup holder and battery packs inside the box so that the cups could fit accordingly. Overall, I am quite pleased with the final fabrication considering the current circumstances and that it is my first project.
 
-![Image](C11.png)
-(This is the finished fabrication of my project.)
 
 
 *In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
