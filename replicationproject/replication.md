@@ -212,7 +212,7 @@ By utilising this article I was able to discover more about alligator clip alter
 ![Image](C5.png)
 (Above is an image of the basic construction and wiring, and the project in action.)
 
-![Image](C7
+![Image](C7.png)
 (This is an image of the project after the first functional prototype test.)
 
 ## Prototype Function Test ##
