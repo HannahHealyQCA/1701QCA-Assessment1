@@ -224,6 +224,7 @@ By utilising this article I was able to discover more about alligator clip alter
 (This is an image of the project after the first functional prototype test.)
 
 ## Prototype Function Test ##
+
 <video src="20200322_054552000_iOS.MOV" width="320" height="200" controls preload></video>
 
 ## Final Fabrication ##
