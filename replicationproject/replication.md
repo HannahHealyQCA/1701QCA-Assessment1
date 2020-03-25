@@ -223,11 +223,28 @@ By utilising this article I was able to discover more about alligator clip alter
 ![Image](C7.png)
 (This is an image of the project after the first functional prototype test.)
 
-## Prototype Function Test ##
-
-<video src="video.mp4" width="320" height="200" controls preload></video>
-
 ## Final Fabrication ##
+I chose to fabicate my project in a cardboard box. I decided to paint it white to streamline the look of my project. I first glued in the cup holder to secure the cups inside the box. Measuring against the cups, I then cut two holes in the lid for the cups.
+![Image](C9.png)
+(This is an image of the two holes for each of the cups.)
+![Image](C13.png) 
+(This is an image of the cups installed into the appropriate holes.)
+![Image](C14.png)
+(Above is an image of the installed cup holder.)
+I also used electrical tap to secure connections and to hold the battery packs in place, thus increasing the structural intergrety of my project.
+![Image](C15.png)
+
+I also cut an openable window to access the battery packs. I also attached a handle made of ribbon as a finishing touch. I cut a window for the microbit screen to be seen and I secured it when duct tape. To finish the fabrication I put in the two cups and taped the wires against the cups to make them neater. I am happy with the final fabrication as I lke the accessability it has due to being able to open the whole thing whilst also have access to the microbit and battery packs without having to open it. 
+![Image](C12.png)
+(This is an image of the installed microbit that can be accessed externally.)
+![Image](C11.png)
+(A pull window allows access to the battery packs inside the cardboad box.)
+I do wish that I had used a smaller box as it is quite large and clunky. I was unable to do this because this is the smallest box I had accessible to me. I also wish that I had cut the two holes for the cus straight rather than on a diagonal because this made it difficult to arrange the cup holder and battery packs inside the box so that the cups could fit accordingly. Overall, I am quite pleased with the final fabrication considering the current circumstances and that it is my first project.
+
+![Image](C11.png)
+(This is the finished fabrication of my project.)
+
+
 *In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
 
 *This should have quite a lot of information!*
