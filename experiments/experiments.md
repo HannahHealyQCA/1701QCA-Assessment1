@@ -34,7 +34,7 @@ This experiment could be the basis of a real world application such as an orient
 
 In this experiment, something new to me was or something I learned was (insert something here).
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as on a boat or at an airport. It could be used to measure the wind conditions to determine whether they are suitable for travel. By using this to measure weather, it will be able to predict safe conditions for travel thus making it easier to determine safe travel conditions.
 
 
 
@@ -50,7 +50,7 @@ This experiment could be the basis of a real world application such as (insert s
 
 In this experiment, I learnt the mechanisms of creating sound with the mircobit both with the pre-made default songs and making custom songs. 
 
-This experiment could be used in a real world context through an alarm with a custom sound. 
+This experiment could be used in a real world context through an alarm with a custom sound or a customisable doorbell. 
 
 
 
@@ -82,7 +82,7 @@ This experiment could be the basis of a real world application such as an actual
 
 In this experiment, I learnt how to connect and code the speed of a motor. I specifically learnt how to code a loop and how that functions physically.
 
-This experiment could be the basis of a real world application such as a wheel of a homemade robot or car as the motor can be used with many different attachments and thus many diverse functions. Using the fan attachment in this experiment you could obviously make a sall portable electric fan. 
+This experiment could be the basis of a real world application such as a wheel of a homemade robot or car as the motor can be used with many different attachments and thus many diverse functions. Using the fan attachment in this experiment you could obviously make a small portable electric fan. It could also be used to circulate the cold air within a freezer or refridgerator.
 
 
 
@@ -99,7 +99,7 @@ This experiment could be the basis of a real world application such as a wheel o
 
 WIth in this experiment, I learnt how to make a more complex replication through a multi step experiment that interacts with LEDs, buttons, and the buzzer. Learning how to create a more complex interaction further developed my problem solving skills. This is because whilst replicating this project I noticed that one of the LEDs were not operating. To solve this I first checked the code and found no problems. I then checked the connections on the breadboard and eventually discovered that the LED was not placed with the flat side in the correct direction. Consequently, by venturing out and completing a more complicated experiment I did encounter a obstacle but by overcoming this I developed my problem solving skills.
 
-This experiment could be used in a real life context through a board game that indicates when it is each players turn. This relates through the timing capabilities and the indicators of the LED and the piezo buzzer. This project could also be manufactured as a miniature pedestrian crossing for toy cars. 
+This experiment could be used in a real life context through a board game that indicates when it is each players turn. This relates through the timing capabilities and the indicators of the LED and the piezo buzzer. This project could also be manufactured as a miniature pedestrian crossing for toy cars or a model train. 
 
 
 
