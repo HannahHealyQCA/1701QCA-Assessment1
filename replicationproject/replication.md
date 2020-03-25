@@ -140,7 +140,7 @@ The first interaction flowchart is a basic version that depicts the basic functi
 
 This diagram was the first step in planning my replication project. Based on the wiring from the tutorial, this is not the final construction I used in my project. Whilst actually building the project I had to problem solve and make some slight adaptions. Instead of using double-sided alligator clips and male pin to alligator clips, I used stripped wires wrapped around nuts and bolts conected to the microbit. This is because the alligator clips did not create a strong enough connection and this connection were too precarious, thus decreasing the reliability of the connections and the project as a whole. Below is the final diagram for the basic wiring and intial construction.
 
-![Image](Diagram4.png)
+![Image](Diagram7.png)
 (Above is an image of a hand-drawn diagram of the final wiring and basic construction I used in my final project that was subject to minor alterations due to problem solving during construction.)
 
 This is the final wiring and construction of the project. During the construction process, I encountered a few obstacles where I had to adapt the wiring, thus explaining the different diagram iterations. 
@@ -250,9 +250,6 @@ I do wish that I had used a smaller box as it is quite large and clunky. I was u
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
-![Image](missingimage.png)
-
-*Include screenshots of the code you have used.*
 
 ## Project outcome ##
 
