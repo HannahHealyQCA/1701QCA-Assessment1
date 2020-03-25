@@ -204,6 +204,7 @@ However, I did not check the code to make sure that still matched up. After this
 (This is an image of the specific piece of code that helped me realise where I went wrong whilst wiring.)
 
 Documents I used to assist me during this step:
+
 (https://support.microbit.org/support/solutions/articles/19000101864-using-a-servo-with-the-micro-bit)
 
 I used this website to help wire the servo motor with the added extra battery pack.
