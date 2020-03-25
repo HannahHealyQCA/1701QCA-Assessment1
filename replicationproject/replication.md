@@ -199,6 +199,22 @@ Rather than tape, I also used a small amount of hot glue to adhere the straw att
 ![Image](C3.png) 
 (This is an image of the attached straw attachment).
 
+I then delved into the wiring process, which was long and frustrating. I first tried using the alligator clips but they were to procarious and the connection was easily disturbed. Instead of alligator clips I used nuts and bolts with stripped wire. After wiring everything, the servo motor had sporadic movements and would only work when the wires were moved.  Consequently I had to re-wire thw connections multiple times to make sure the connections were strong and neat. After doing so I realised that it was not the wiring of connections that was incorrect. I then checked the code to make sure that was correct. I then realised that the servo was connected to P2 but I did not have anything attached to P2. I then changed the wiring so the servo connection that was on P1 was now on P2. I accidently put this wire on P1 becasue I altered the wiring to match the tutorial on this page. (https://support.microbit.org/support/solutions/articles/19000101864-using-a-servo-with-the-micro-bit)
+However, I did not check the code to make sure that still matched up. After this hurdle, the project was working as intended. I placed each cup into a cup holder to secure them while constructing the restt of my project.
+Documents I used to assist me during this step:
+(https://support.microbit.org/support/solutions/articles/19000101864-using-a-servo-with-the-micro-bit)
+I used this website to help wire the servo motor with the added extra battery pack.
+(https://makecode.microbit.org/projects/plant-watering/make)
+I used this tutorial as overarching instructions to complete this whole project.
+(https://lorrainbow.wordpress.com/2017/11/11/how-to-connect-wires-to-the-microbit/)
+By utilising this article I was able to discover more about alligator clip alternatives and thus make an educated decision to use nuts and bolts to connect the wires to the microbit.
+
+![Image](C5.png)
+(Above is an image of the basic construction and wiring, and the project in action.)
+
+![Image](C7
+(This is an image of the project after the first functional prototype test.)
+
 ## Prototype Function Test ##
 ## Final Fabrication ##
 *In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
