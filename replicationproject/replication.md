@@ -231,14 +231,17 @@ I chose to fabicate my project in a cardboard box. I decided to paint it white t
 (This is an image of the cups installed into the appropriate holes.)
 ![Image](C14.png)
 (Above is an image of the installed cup holder.)
+
 I also used electrical tap to secure connections and to hold the battery packs in place, thus increasing the structural intergrety of my project.
 ![Image](C15.png)
+(Above is an insightful image that shows the wiring and use of electrical tape.)
 
 I also cut an openable window to access the battery packs. I also attached a handle made of ribbon as a finishing touch. I cut a window for the microbit screen to be seen and I secured it when duct tape. To finish the fabrication I put in the two cups and taped the wires against the cups to make them neater. I am happy with the final fabrication as I lke the accessability it has due to being able to open the whole thing whilst also have access to the microbit and battery packs without having to open it. 
 ![Image](C12.png)
 (This is an image of the installed microbit that can be accessed externally.)
 ![Image](C11.png)
 (A pull window allows access to the battery packs inside the cardboad box.)
+
 I do wish that I had used a smaller box as it is quite large and clunky. I was unable to do this because this is the smallest box I had accessible to me. I also wish that I had cut the two holes for the cus straight rather than on a diagonal because this made it difficult to arrange the cup holder and battery packs inside the box so that the cups could fit accordingly. Overall, I am quite pleased with the final fabrication considering the current circumstances and that it is my first project.
 
 ![Image](C11.png)
