@@ -16,7 +16,7 @@
 #### Reflection ####
 When replicating this experiment I learnt the functions of the compass and how to code the compass mechanism of the microbit. I learnt these skills through the creation of a game, consequently I enjoyed discovering the endless opportunities to create new games and testing new facets of the microbit. This experiment also helped me gain experience using the breadboard and the microbit as whole, thus increasing my familiarity and knowledge of the microbit and its functions. 
 
-This experiment could be the basis of a real world application such as an orienteering or scavenger tool as using the led to detect a specific compass heading could lead someone to a goal location. This mechanism could also function as a finding tool for lost objects. Similar to 'find your iphone' it could be utilised to find a certain object whether in a treasure hunt or just to find an important lost everyday item.
+This experiment could be the basis of a real world application such as an orienteering or scavenger hunting tool as using the led to detect a specific compass heading could lead someone to a goal location. This mechanism could also function as a finding tool for lost objects. Similar to 'find your iphone' it could be utilised to find a certain object whether in a treasure hunt or just to find an important lost everyday item.
 
 
 ### Experiment 7- Wind Power ###
@@ -32,7 +32,7 @@ This experiment could be the basis of a real world application such as an orient
 
 #### Reflection ####
 
-In this experiment, I was introduced to the motor and fan. I learnt how to code external parts such as the motor and how to change the speed. I enjoyed this experiment as the project did not just exlusively include electrical components. In order to test this experiment you have to use physical force thus introducing a sense of human involvement as it is not just electrical parts doing all of the work. 
+In this experiment, I was introduced to the motor and fan. I learnt how to code external parts such as the motor. I enjoyed this experiment as the project did not just exlusively include electrical components. In order to test this experiment you have to use physical force thus introducing a sense of human involvement as it is not just electrical parts doing all of the work. 
 
 This experiment could be the basis of a real world application such as on a boat or at an airport. It could be used to measure the wind conditions to determine whether they are suitable for travel. By using this to measure weather, it will be able to predict safe conditions for travel thus making it easier to determine safe travel conditions.
 
@@ -48,7 +48,7 @@ This experiment could be the basis of a real world application such as on a boat
 
 #### Reflection ####
 
-In this experiment, I learnt the mechanisms of creating sound with the mircobit both with the pre-made default songs and making custom songs. I enjoyed this experiment because of the endless different opportunities of sound.
+In this experiment, I learnt the mechanisms of creating sound with the mircobit both with the pre-made default songs and making custom songs. I enjoyed this experiment because of the endless different opportunities of sound. As this was one of my first experiments, it also expanded my knowledge using the make code software and using the breadboard. I specifically learnt how the numbers on the breadboard correlate and how to convert the block code to the java script code.
 
 This experiment could be used in a real world context through an alarm with a custom sound or a customisable doorbell. The piezo buzzer could be used in many differnt ways as the coding opportunities are endless and you can make any song desired.
 
@@ -60,13 +60,13 @@ This experiment could be used in a real world context through an alarm with a cu
 
 ![Image](DimmingLED1.png)
 
-(This is an image of the dimming LED usinng a potentiometer inventors kit experiement. The light level of the red LED can be adjusted using the dimmer.)
+(This is an image of the dimming LED using a potentiometer inventors kit experiement. The light level of the red LED can be adjusted using the dimmer.)
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was the functions of the potentiometer and how to apply this electric part in a real world context. I also learnt the 'light state' function during the coding process.
+In this experiment, something new to me was or something I learned was the functions of the potentiometer and how to apply this electric part in a real world context. I also learnt the 'light state' function during the coding process. I also learnt about the flat side of the leds and how to correctly place them within the breadboard.
 
-This experiment could be the basis of a real world application such as an actual light dimmer. To expand this experiment it could be altered to change the speed of a fan rather than the brightness of an LED.
+This experiment could be the basis of a real world application such as an actual light dimmer. To expand this experiment it could be altered to change the speed of a fan rather than the brightness of an LED. This experiement could be expanded or advanced in many different ways.
 
 
 
@@ -82,7 +82,7 @@ This experiment could be the basis of a real world application such as an actual
 
 In this experiment, I learnt how to connect and code the speed of a motor. I was also introduced to the coding term of 'loops' and how to use them to motorise repetitive circuits. I learnt how to code a loop and how that functions physically. 
 
-This experiment could be the basis of a real world application such as a wheel of a homemade robot or car as the motor can be used with many different attachments and thus many diverse functions. Using the fan attachment in this experiment you could obviously make a small portable electric fan. It could also be used to circulate the cold air within a freezer or refridgerator.
+This experiment could be the basis of a real world application such as a wheel of a homemade robot or car as the motor can be used with many different attachments and thus many diverse functions. Using the fan attachment in this experiment you could obviously make a small portable electric fan. It could also be used to circulate the cold air within a freezer or refridgerator. This project could also be adapted for a small model plane or even to power a model boat.
 
 
 ### Experiment 11- Pedestrian Crossing ###
@@ -92,13 +92,13 @@ This experiment could be the basis of a real world application such as a wheel o
 
 ![Image](PedestrianExperiment1.png)
 
-(Above is an image of the pedestrian crossing experiemnt. This experiment works just like a real pedestrian crossing and is equipped with LEDs and a piezo buzzer to truly emmulate the real life experience.
+(Above is an image of the pedestrian crossing experiemnt. This experiment works just like a real pedestrian crossing and is equipped with LEDs and a piezo buzzer to truly emmulate the real life experience.)
 
 #### Reflection ####
 
-WIth in this experiment, I learnt how to make a more complex replication through a multi step experiment that interacts with LEDs, buttons, and the buzzer. Learning how to create a more complex interaction further developed my problem solving skills. This is because whilst replicating this project I noticed that one of the LEDs were not operating. To solve this I first checked the code and found no problems. I then checked the connections on the breadboard and eventually discovered that the LED was not placed with the flat side in the correct direction. Consequently, by venturing out and completing a more complicated experiment I did encounter an obstacle but by overcoming this I developed my problem solving skills.
+Within this experiment, I learnt how to make a more complex replication through a multi step experiment that interacts with LEDs, buttons, and the buzzer. Learning how to create a more complex interaction further developed my problem solving skills. This is because whilst replicating this project I noticed that one of the LEDs were not operating. To solve this I first checked the code and found no problems. I then checked the connections on the breadboard and eventually discovered that the LED was not placed with the flat side in the correct direction. Consequently, by venturing out and completing a more complicated experiment I did encounter an obstacle but by overcoming this I developed my problem solving skills and expanded my knowledge of using different electrical parts with the breadboard.
 
-This experiment could be used in a real life context through a board game that indicates when it is each players turn. This relates through the timing capabilities and the indicators of the LED and the piezo buzzer. This project could also be manufactured as a miniature pedestrian crossing for toy cars or a model train. 
+This experiment could be used in a real life context through a board game accessory that indicates when it is each player's turn. This relates through the timing capabilities and the indicators of the LED and the piezo buzzer. This project could also be manufactured as a miniature pedestrian crossing for toy cars or a model train. 
 
 
 
