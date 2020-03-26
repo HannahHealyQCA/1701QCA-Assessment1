@@ -50,7 +50,7 @@ This experiment could be the basis of a real world application such as on a boat
 
 In this experiment, I learnt the mechanisms of creating sound with the mircobit both with the pre-made default songs and making custom songs. I enjoyed this experiment because of the endless different opportunities of sound. As this was one of my first experiments, it also expanded my knowledge using the make code software and using the breadboard. I specifically learnt how the numbers on the breadboard correlate and how to convert the block code to the java script code.
 
-This experiment could be used in a real world context through an alarm with a custom sound or a customisable doorbell. The piezo buzzer could be used in many differnt ways as the coding opportunities are endless and you can make any song desired.
+This experiment could be used in a real world context through an alarm with a custom sound or a customisable doorbell. The piezo buzzer could be used in an art installation that involves sound. It could also be used to indicate when a motion sensor has been triggered on an alarm home security system. The piezo buzzer could be utilised in many differnt ways as the coding opportunities are endless and you can make any song or tune desired.
 
 
 
@@ -66,7 +66,7 @@ This experiment could be used in a real world context through an alarm with a cu
 
 In this experiment, something new to me was or something I learned was the functions of the potentiometer and how to apply this electric part in a real world context. I also learnt the 'light state' function during the coding process. I also learnt about the flat side of the leds and how to correctly place them within the breadboard.
 
-This experiment could be the basis of a real world application such as an actual light dimmer. To expand this experiment it could be altered to change the speed of a fan rather than the brightness of an LED. This experiement could be expanded or advanced in many different ways.
+This experiment could be the basis of a real world application such as an actual light dimmer. To expand this experiment it could be altered to change the speed of a fan rather than the brightness of an LED. You could also adapt this project to use a potentiometer to control a micro servo. This relates to my chosen replication project of the automatoc plant waterer. You could apply this to my specific project and turn the plant waterer into a manual mode. This experiement could be expanded or advanced in many different ways.
 
 
 
@@ -80,7 +80,7 @@ This experiment could be the basis of a real world application such as an actual
 
 #### Reflection ####
 
-In this experiment, I learnt how to connect and code the speed of a motor. I was also introduced to the coding term of 'loops' and how to use them to motorise repetitive circuits. I learnt how to code a loop and how that functions physically. 
+In this experiment, I learnt how to connect and code the speed of a motor. This experiemnt opened my eyes to the countless electrical components that can be connected to the microbit, and thus the endless ideas for gadgets and inventions. I was also introduced to the coding term of 'loops' and how to use them to motorise repetitive circuits. I learnt how to code a loop and how that functions physically. 
 
 This experiment could be the basis of a real world application such as a wheel of a homemade robot or car as the motor can be used with many different attachments and thus many diverse functions. Using the fan attachment in this experiment you could obviously make a small portable electric fan. It could also be used to circulate the cold air within a freezer or refridgerator. This project could also be adapted for a small model plane or even to power a model boat.
 
