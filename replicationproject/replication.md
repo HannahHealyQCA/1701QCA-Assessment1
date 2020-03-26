@@ -103,14 +103,13 @@ Before engaging with this text, I believed that the design process was moderatel
 
 By reading this text I learnt real life examples that utilise interactive technology. It also expanded my knowledge of the language surrounding interactive projects and this industry. I now know that a designer makes nontechnical decisions surrounding the functionality and structure. However, a developed implements these decisions to create the product. This relationship is changed due to emerging technology, thus making designers more adaptive and learning to code more important than ever in this competitive market. I also learnt of the transformative nature that designers have to develop, as they now have to "be able to create prototypes and interpret the data that our prototypes produce"(p. 227). Through the real life case studies, I also learnt about the design process and the adaptations that have to be made due to problem solving and how to tackle these hurdles during this process. I had some knowledge of the importance of problem solving during the design process, but this text opened my eyes to the immense flexibilty designers have to develop when encountering setbacks.
 
-ALthough this text did provide ample information and many real life examples that greatly expanded my knowledge of prototyping and the design process I would like to know more about
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+ALthough this text did provide ample information and many real life examples that greatly expanded my knowledge of prototyping and the design process I would like to know more about whether systems such as Arduino and Microbit are used in prrofessional settings? Are they just used for prrototyping? Are they widely known in the design industry? 
 
 The concept of prototyping and the designer's role relates to my chosen replication project as I had to be both the designer and developer. I took on all roles, I designed, developed, coded, constructed and showcased my project. I had to take on the ideologies of the adaptive role of the designer from this text when completing my own project as I needed to think through many differnet perspectives and learn many new skills. During the construction of my process I also had to create a few different prototypes seen through both my diagram iterations, material list changes, and the problem solving I had to do when doing the basic wiring. The ideas represented in this reading allowed me to improve my project by easily overcoming the problems I encountered as I understood my adaptive role and the importance of planning and prototyping.
 
 
 ## Interaction flowchart ##
-*Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
+
 ###  Basic Interaction Flowchart ###
 
 ![Image](IFD.png)
@@ -186,7 +185,7 @@ Next I began constructing the water cup component. Instead of using rubberbands 
 ![Image](C2.png)
 (Above is an image of the water cup component including the micro servo.)
 
-Rather than tape, I also used a small amount of hot glue to adhere the straw attachment because I did not think that tape would hold it sufficiently especially with the movement and water involved.
+Rather than tape, I also used a small amount of hot glue to adhere the straw attachment because I did not think that tape would hold it sufficiently especially with the movement and water involved. You may notice that in the next few photos the straw magically changes from orange to green. This is because I had to re-cut the straw as I had cut the trough too deep and when the water was scooped it would drip down the straw. I first tried to patch it up with hot glue but it looked messy and unprofessional. So to increase the amount of water being deposited into the plant and to streamline the look, I replaced the straw entirely.
 
 ![Image](C3.png) 
 (This is an image of the attached straw attachment).
