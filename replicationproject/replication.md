@@ -247,15 +247,13 @@ Sick of countless dried dead plants? Want to  take the work out of owning house 
 
 ### Showcase image ###
 
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
-
-![Image](missingimage.png)
+![Image](final2.png)
+(The AquaPour is a brand new product that automatically waters your plants.)
 
 ### Additional view ###
 
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
-
-![Image](missingimage.png)
+![Image](final1.png)
+(This is an image of The Aquapour in action.)
 
 
 
