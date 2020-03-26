@@ -245,14 +245,12 @@ I do wish that I had used a smaller box as it is quite large and clunky. I was u
 
 ## Project outcome ##
 
-*Complete the following information.*
 
-### Project title ###
+### The Aquapour ###
 
 ### Project description ###
-Sick of countless dried dead plants? Want to  take the work out of owning house plants? The does it all for you!The caters to your plant's specific needs. It detects the moisture level of your plant and automatically waters your precious plant if it is dehyrated. Perfect for anyone who struggles to keep plants alive, the makes your life so much easier.
+Sick of countless dried dead plants? Want to  take the work out of owning house plants? The Aquapour does it all for you! The Aquapour caters to your plant's specific needs. It detects the moisture level of your plant and automatically waters your precious plant if it is dehyrated. Perfect for anyone who struggles to keep plants alive, the Aquapour makes your life so much easier.
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
 
 ### Showcase image ###
 
