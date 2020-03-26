@@ -236,13 +236,6 @@ I do wish that I had used a smaller box as it is quite large and clunky. I was u
 
 
 
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
-
-*This should have quite a lot of information!*
-
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
-
-
 ## Project outcome ##
 
 
@@ -263,6 +256,8 @@ Sick of countless dried dead plants? Want to  take the work out of owning house 
 *Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
 ![Image](missingimage.png)
+
+
 
 ### Reflection ###
 
