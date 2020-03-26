@@ -28,6 +28,8 @@ This project is related to my chosen replication project because it caters to th
 (The Water Garden automatically cares for both plants but also fish.)
 
 The Water Garden is an aquaponics fish tank that both cleans itself and grows plants. The fish's waste fertilises the plants while the plants purify the water. The water garden is a closed-loop aquaponics system. The water from the fish tank is pumped into the plants, where beneficial bacteria growing on the plant's roots convert the ammonia within the fish waste into nitrates that fertilises the plants and cleans the tank.
+
+
 This project has some major similarities to my project as it automatically cares for the plants without human assistance. This project is much more advanced as it automatically cares for both the needs of nature and living species. It also helps us care for plants and makes it so much easier to do so by decreasing the work we have to do to keep plants alive and healthy. I found this project very interesting due to the science behind the fertilisation and the purification of the water through different types of bacteria.
 
 ### Related project 3- Automatic Bubble Blower ###
