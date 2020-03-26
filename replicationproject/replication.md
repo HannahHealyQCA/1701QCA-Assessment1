@@ -60,6 +60,8 @@ This project is related to my self watering plant waterer because it also waters
 (This is an image of the word clock that uses servo motors to visually indicate the time.)
 
 The word clock is a large visual clock that represents the time visually through words. This display clock is constructed of 114 servo motors, 300 LEDs, some custom 3D printed or laser cut parts, linear actuators and various other materials. The 114 letters are made from a 3D printed box with installed LEDs and the servo motors raise or push foward the appropriate letters which correlate with the according LEDs. It is also covered with semi-transparent foil that hides all of the components but still allows the letters to be seen due to the the LEDS. The foil screen also allows each of the letters to disappear and reappear as the servo motors compress and decompress the letters. I was interested in this project as it uses servo motors in a large scale display thus expanding my knowledge of how servo motors can be used in much more complex projects.
+
+
 The word clock is similar to my chosen replication project as it uses many servos motors and thus utilises the same technology and foundation mechanical equipment. However, this project has a completely different function, construction and purpose. These projects are also connected as they both aim to make our lives easier. 
 
 
@@ -71,6 +73,7 @@ The word clock is similar to my chosen replication project as it uses many servo
 (The Green Wheel is a circular automatic garden that rotates around a focal light source.)
 
 Based on NASA's rotary hydroponic garden that provides astronauts with fresh produce whilst in orbit, The Green Wheel creates an optimal enviroment for house plants. Its circular design provides more space for plants and caters to the plant's light needs as it is arranged around a centre light source and the plants rotate around it. A water reservoir and a pump automatically waters the plants when needed. 
+
 
 This project is similar to my chosen replication project as it also detects and fufills the needs of the plant. This project is much more advanced as it fufills all of the plants needs such as watering and sunlight rather than just watering. This project is also related to my chosen project as it also helps us care for plants thus making our lives easier. I was interested in this specific product as I enjoyed the rotating mechanism and the purpose of this technology.
 
